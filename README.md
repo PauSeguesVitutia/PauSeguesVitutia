@@ -6,6 +6,6 @@
 ## 📫 How to Reach Me
 
 - 📧 **Email:** pauseguesvitutia@gmail.com    
-- 🌐 **Portfolio:** [pau-segues.netlify.app/](https://https://pau-segues.netlify.app/)
+- 🌐 **Portfolio:** [pausegues.vercel.app](pausegues.vercel.app)
 - 🐦 **Twitter (X):** [@pau_segues](https://twitter.com/pau_segues)  
 - 📸 **Instagram:** [@pau_segues](https://instagram.com/pau_segues) 
