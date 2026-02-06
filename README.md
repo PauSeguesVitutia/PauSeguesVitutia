@@ -6,6 +6,6 @@
 ## 📫 How to Reach Me
 
 - 📧 **Email:** pauseguesdev@gmail.com    
-- 🌐 **Portfolio:** [pausegues.vercel.app](pausegues.vercel.app)
+- 🌐 **Portfolio:** [pausegues.vercel.app](https://pausegues.vercel.app)
 - 🐦 **Twitter (X):** [@pau_segues](https://twitter.com/pau_segues)  
 - 📸 **Instagram:** [@pau_segues](https://instagram.com/pau_segues) 
